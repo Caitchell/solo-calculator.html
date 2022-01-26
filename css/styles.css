@@ -1,27 +1,39 @@
 #subtract{
-  margin: 5px;
-  border: 5px solid rgb(83, 148, 223);
+  margin: auto;
+  border: 10px solid rgb(83, 148, 223);
   padding: 10px;
   box-sizing: border-box;
+  margin-bottom: 15px;
 }
 
 #add{
-  margin: 5px;
-  border: 5px solid rgb(83, 148, 223);
+  margin: auto;
+  border: 10px solid rgb(223, 151, 83);
   padding: 10px;
   box-sizing: border-box;
+  margin-bottom: 15px;
 }
 
 #divide{
-  margin: 5px;
-  border: 5px solid rgb(83, 148, 223);
+  margin: auto;
+  border: 10px solid rgb(108, 175, 77);
   padding: 10px;
   box-sizing: border-box;
+  margin-bottom: 15px;
 }
 
 #multiply{
-  margin: 5px;
-  border: 5px solid rgb(83, 148, 223);
+  margin: auto;
+  border: 10px solid rgb(196, 67, 62);
   padding: 10px;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+}
+
+body{
+  margin: auto;
+  text-align: center;
+  background-color: burlywood;
+  width: 30%;
   box-sizing: border-box;
 }
