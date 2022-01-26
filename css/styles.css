@@ -1,0 +1,27 @@
+#subtract{
+  margin: 5px;
+  border: 5px solid rgb(83, 148, 223);
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#add{
+  margin: 5px;
+  border: 5px solid rgb(83, 148, 223);
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#divide{
+  margin: 5px;
+  border: 5px solid rgb(83, 148, 223);
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#multiply{
+  margin: 5px;
+  border: 5px solid rgb(83, 148, 223);
+  padding: 10px;
+  box-sizing: border-box;
+}
